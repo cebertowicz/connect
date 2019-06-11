@@ -54,7 +54,7 @@
     "cookie": "0.1.0",
     "cookie-signature": "1.0.1",
     "debug": "*",
-    "formidable": "1.1.1",
+    "formidable": "^1.1.1",
     "fresh": "0.2.0",
     "methods": "0.0.1",
     "pause": "0.0.1",
