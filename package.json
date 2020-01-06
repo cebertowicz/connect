@@ -52,7 +52,7 @@
     "buffer-crc32": "0.2.1",
     "bytes": "0.2.0",
     "cookie": "0.1.0",
-    "cookie-signature": "1.0.1",
+    "cookie-signature": "1.1.0",
     "debug": "*",
     "formidable": "^1.1.1",
     "fresh": "0.2.0",
